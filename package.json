@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "array-slice": "^1.0.0",
-    "is-number": "^3.0.0"
+    "is-number": "^4.0.0"
   },
   "keywords": [
     "array",
