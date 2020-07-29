@@ -30,6 +30,7 @@
     "array-slice": "^1.0.0",
     "is-number": "^4.0.0"
   },
+  "files": ["index.js"],
   "keywords": [
     "array",
     "fast",
